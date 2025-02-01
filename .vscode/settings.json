@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "tonc.h": "c",
+        "tonc_text.h": "c",
+        "tonc_tte.h": "c"
+    }
+}
